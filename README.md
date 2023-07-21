@@ -1,4 +1,4 @@
-# Arduino project for SquareLine Studio with TFT_eSPI
+# project for SquareLine Studio with TFT_eSPI
 
 ## Get started
 
